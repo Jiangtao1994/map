@@ -1,0 +1,40 @@
+[0814/161259.234:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/161355.939:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/161405.264:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/161417.217:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/161755.777:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/161810.625:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/161913.241:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/161918.027:ERROR:process_info.cc(632)] range at 0xd71b22ee00000000, size 0x29 fully unreadable
+[0814/161918.027:ERROR:process_info.cc(632)] range at 0xd71b230e00000000, size 0x29 fully unreadable
+[0814/161918.027:ERROR:process_info.cc(632)] range at 0x0, size 0x29 fully unreadable
+[0814/161923.004:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/161931.910:ERROR:process_info.cc(632)] range at 0x9b7022ee00000000, size 0x84 fully unreadable
+[0814/161931.910:ERROR:process_info.cc(632)] range at 0x9b70230e00000000, size 0x84 fully unreadable
+[0814/161931.910:ERROR:process_info.cc(632)] range at 0x0, size 0x84 fully unreadable
+[0814/161936.207:ERROR:registration_protocol_win.cc(56)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0814/161946.161:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/161950.595:ERROR:process_info.cc(632)] range at 0x692422e800000000, size 0x7f fully unreadable
+[0814/161950.610:ERROR:process_info.cc(632)] range at 0x6924230800000000, size 0x7f fully unreadable
+[0814/161950.610:ERROR:process_info.cc(632)] range at 0x0, size 0x7f fully unreadable
+[0814/161954.079:ERROR:registration_protocol_win.cc(56)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0814/161958.360:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/162011.267:ERROR:process_info.cc(632)] range at 0xa9922e800000000, size 0x1c fully unreadable
+[0814/162011.267:ERROR:process_info.cc(632)] range at 0xa99230800000000, size 0x1c fully unreadable
+[0814/162011.267:ERROR:process_info.cc(632)] range at 0x0, size 0x1c fully unreadable
+[0814/162015.986:ERROR:registration_protocol_win.cc(56)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0814/162026.423:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/162032.048:ERROR:process_info.cc(632)] range at 0x3e7422e800000000, size 0x10 fully unreadable
+[0814/162032.048:ERROR:process_info.cc(632)] range at 0x3e74230800000000, size 0x10 fully unreadable
+[0814/162032.048:ERROR:process_info.cc(632)] range at 0x0, size 0x10 fully unreadable
+[0814/162037.173:ERROR:registration_protocol_win.cc(56)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0814/162043.720:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/162049.439:ERROR:process_info.cc(632)] range at 0xeb6822e800000000, size 0x62 fully unreadable
+[0814/162049.439:ERROR:process_info.cc(632)] range at 0xeb68230800000000, size 0x62 fully unreadable
+[0814/162049.439:ERROR:process_info.cc(632)] range at 0x0, size 0x62 fully unreadable
+[0814/162053.642:ERROR:registration_protocol_win.cc(56)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0814/162102.564:WARNING:chrome_main_delegate.cc(586)] final extension: .nw
+[0814/162107.346:ERROR:process_info.cc(632)] range at 0x5ba322e800000000, size 0xfe fully unreadable
+[0814/162107.346:ERROR:process_info.cc(632)] range at 0x5ba3230800000000, size 0xfe fully unreadable
+[0814/162107.346:ERROR:process_info.cc(632)] range at 0x0, size 0xfe fully unreadable
+[0814/162111.768:ERROR:registration_protocol_win.cc(56)] CreateFile: 系统找不到指定的文件。 (0x2)
